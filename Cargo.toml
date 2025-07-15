@@ -1,0 +1,8 @@
+[package]
+name = "Quantum_Sentence_Transformer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+roqoqo = "1.6"
+roqoqo-quest = "0.16.1"
